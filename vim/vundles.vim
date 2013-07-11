@@ -128,6 +128,10 @@ Bundle "bogado/file-line.git"
 " Go Lang
 Bundle "jnwhiteh/vim-golang"
 
+" Elixir and Erlang
+Bundle "elixir-lang/vim-elixir"
+Bundle "hcs42/vim-erlang"
+
 " Customization
 " The plugins listed in ~/.vim/.vundles.local will be added here to
 " allow the user to add vim plugins to yadr without the need for a fork.
