@@ -277,4 +277,11 @@ as an actual debugger by installing [pry-nav](https://github.com/nixme/pry-nav).
 
 [Learn more about YADR's pry customizations and how to install](doc/pry.md)
 
+<<<<<<< HEAD
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/skwp/dotfiles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+=======
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/akitaonrails/dotfiles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+>>>>>>> 3c393c6d4bb0d0f8ac1fc2febf303d74b59704b7
