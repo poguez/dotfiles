@@ -125,3 +125,10 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[github]
+	user = poguez
+[ghi]
+	token = b20acc4e49739d97d7542d339a8d75066f9a2349
+[user]
+	email = zeugop@gmail.com
+	name = poguez
