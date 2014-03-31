@@ -31,6 +31,10 @@ Please use GitHub Issues for pull requests or bug reports only.
 
 ![screenshot](http://i.imgur.com/3C1Ze.png)
 
+## Before install in Linux
+
+Install Powerline Mono Font [https://github.com/scotu/ubuntu-mono-powerline.git ~/.fonts/ && fc-cache -vf ~/.fonts](https://github.com/scotu/ubuntu-mono-powerline.git ~/.fonts/ && fc-cache -vf ~/.fonts)
+
 ## Installation
 
 To get started please run:
