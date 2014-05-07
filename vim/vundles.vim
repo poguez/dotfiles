@@ -29,8 +29,6 @@ runtime search.vundle
 runtime project.vundle
 runtime vim-improvements.vundle
 
-<<<<<<< HEAD
-=======
 " Ruby, Rails, Rake...
 Bundle "astashov/vim-ruby-debugger"
 Bundle "ecomba/vim-ruby-refactoring"
@@ -147,7 +145,6 @@ Bundle "elixir-lang/vim-elixir"
 Bundle "hcs42/vim-erlang"
 
 " Customization
->>>>>>> 3c393c6d4bb0d0f8ac1fc2febf303d74b59704b7
 " The plugins listed in ~/.vim/.vundles.local will be added here to
 " allow the user to add vim plugins to yadr without the need for a fork.
 if filereadable(expand("~/.yadr/vim/.vundles.local"))
