@@ -8,7 +8,7 @@
     # Yet Another Dotfile Repo v1.1
     # Now with Prezto and Vundle!
 
-    sh -c "`curl -fsSL https://raw.github.com/skwp/dotfiles/master/install.sh`"
+    sh -c "`curl -fsSL https://raw.github.com/poguez/dotfiles/master/install.sh`"
 
 **Always be sure to run `rake update` after pulling to ensure plugins are updated**
 
@@ -36,7 +36,7 @@ Please use GitHub Issues for pull requests or bug reports only.
 Install Powerline Mono Font 
 
 ```bash
-https://github.com/scotu/ubuntu-mono-powerline.git ~/.fonts/ && fc-cache -vf ~/.fonts
+git clone https://github.com/scotu/ubuntu-mono-powerline.git ~/.fonts/ && fc-cache -vf ~/.fonts
 ```
 
 ## Installation
@@ -44,14 +44,14 @@ https://github.com/scotu/ubuntu-mono-powerline.git ~/.fonts/ && fc-cache -vf ~/.
 To get started please run:
 
 ```bash
-sh -c "`curl -fsSL https://raw.github.com/skwp/dotfiles/master/install.sh`"
+sh -c "`curl -fsSL https://raw.github.com/poguez/dotfiles/master/install.sh`"
 ```
 
 **Note:** YADR will automatically install all of its subcomponents. If you want to be asked
 about each one, use:
 
 ```bash
-sh -c "`curl -fsSL https://raw.github.com/skwp/dotfiles/master/install.sh`" -s ask
+sh -c "`curl -fsSL https://raw.github.com/poguez/dotfiles/master/install.sh`" -s ask
 ```
 
 ## Wait, you're not done! Do this:
@@ -285,11 +285,4 @@ as an actual debugger by installing [pry-nav](https://github.com/nixme/pry-nav).
 
 [Learn more about YADR's pry customizations and how to install](doc/pry.md)
 
-<<<<<<< HEAD
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/skwp/dotfiles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-=======
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/akitaonrails/dotfiles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
->>>>>>> 3c393c6d4bb0d0f8ac1fc2febf303d74b59704b7
